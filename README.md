@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivaraju 👋 | BE ECE Grad | Aspiring Full-Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Shivaraju | BE ECE Grad | Aspiring Full-Stack Developer</h1>
 <h3 align="center">Building cool projects | Exploring Web & Mobile Dev | Java & Full-Stack Enthusiast | Lifelong Learner 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajns&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajns" /> </p>
